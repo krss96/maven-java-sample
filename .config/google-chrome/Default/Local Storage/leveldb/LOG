@@ -1,0 +1,6 @@
+2023/10/02-11:33:45.747 e6b Reusing MANIFEST /home/rhyme/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/10/02-11:33:45.748 e6b Recovering log #4
+2023/10/02-11:33:45.748 e6b Reusing old log /home/rhyme/.config/google-chrome/Default/Local Storage/leveldb/000004.log 
+2023/10/02-11:35:07.823 f3b Level-0 table #8: started
+2023/10/02-11:35:07.827 f3b Level-0 table #8: 33738 bytes OK
+2023/10/02-11:35:07.830 f3b Delete type=0 #4
